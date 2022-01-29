@@ -1,0 +1,87 @@
+
+body{
+    padding: 50px 100px;
+    background-image:url(images/output-onlinepngtools.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+    /* height: 100vh; */
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    background-image: linear-gradient(rgb(15, 188, 211), rgb(91, 233, 233));
+    color:rgb(23, 57, 247)
+}
+form{
+    text-align: center;
+}
+.inpClass{
+    margin: 10px;
+    width: 400px;
+    padding: 7px 10px;
+    border: 0px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: 13px;
+    background-image: linear-gradient(rgb(0, 81, 128), rgb(28, 5, 43));
+    color: white;
+
+    
+}
+input[type = "submit"]{
+    width: 420px;
+    background-image: linear-gradient(rgba(29, 169, 179, 0.918), rgb(28, 196, 202));
+    border: 0px;
+    color: white;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+#innerContainer{
+    border: 1px solid grey;
+    height: 480px;
+    background-image: linear-gradient(rgb(141, 218, 228),rgb(200, 200, 214));
+    border-radius: 20px;
+    
+
+}
+.spnClass{
+    color: red;
+    font-family: sans-serif;
+    font-size: 14px;
+    /* background-color: white; */
+    border-radius: 5px;
+    padding:3px 5px;
+    
+    
+}
+#spn1{
+    position:absolute;
+    top: 146px;
+    left: 67%;
+    
+}
+#spn2{
+    position: absolute;
+    top: 200px;
+    left: 67%;
+}
+#spn3{
+    position: absolute;
+    top: 250px;
+    left: 67%
+}
+#spn4{
+    position:absolute;
+    top: 300px;
+    left: 67%;
+}
+#spn5{
+    position: absolute;
+    top: 350px;
+    left: 67%;
+}
